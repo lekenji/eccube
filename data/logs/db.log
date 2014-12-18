@@ -1,0 +1,14 @@
+2014/12/18 12:46:43 [/admin/customer/index.php] [execute end 54924e1e4f134#1]
+SQL: SELECT sess_data FROM dtb_session WHERE sess_id = $1   
+PlaceHolder: array (
+  0 => 'ob0bfj12fnile3lhkfd1qubho0',
+)
+execution time: 5.61 sec
+ from 127.0.0.1
+2014/12/18 12:46:43 [/admin/products/index.php] [execute end 54924e1e4f51c#1]
+SQL: SELECT sess_data FROM dtb_session WHERE sess_id = $1   
+PlaceHolder: array (
+  0 => 'ob0bfj12fnile3lhkfd1qubho0',
+)
+execution time: 5.61 sec
+ from 127.0.0.1

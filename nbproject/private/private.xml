@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/Lockon/eccube/data/class/SC_Query.php</file>
+            <file>file:/G:/Lockon/eccube/data/class/pages/admin/order/LC_Page_Admin_Order.php</file>
+            <file>file:/G:/Lockon/eccube/data/class/pages/admin/customer/LC_Page_Admin_Customer.php</file>
+            <file>file:/G:/Lockon/eccube/data/class/SC_CustomerList.php</file>
+            <file>file:/G:/Lockon/eccube/data/class/helper/SC_Helper_DB.php</file>
+            <file>file:/G:/Lockon/eccube/data/class_extends/SC_Query_Ex.php</file>
+            <file>file:/G:/Lockon/eccube/data/Smarty/templates/admin/adminparts/form_customer_search.tpl</file>
+            <file>file:/G:/Lockon/eccube/data/Smarty/templates/admin/customer/edit_confirm.tpl</file>
+            <file>file:/G:/Lockon/eccube/data/Smarty/templates/admin/customer/index.tpl</file>
+            <file>file:/G:/Lockon/eccube/data/Smarty/templates/admin/customer/edit_complete.tpl</file>
+            <file>file:/G:/Lockon/eccube/data/class_extends/SC_CustomerList_Ex.php</file>
+            <file>file:/G:/Lockon/eccube/data/class/SC_SelectSql.php</file>
+            <file>file:/G:/Lockon/eccube/data/Smarty/templates/admin/customer/edit.tpl</file>
+            <file>file:/G:/Lockon/eccube/data/class/util/SC_Utils.php</file>
+        </group>
+    </open-files>
+</project-private>
